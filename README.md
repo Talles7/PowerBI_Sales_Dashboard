@@ -73,6 +73,8 @@ Ao longo do desenvolvimento, compreendi a importância de:
 Mais do que aprender novas funcionalidades do Power BI, este projeto fortaleceu minha visão de que um bom analista precisa conectar dados, contexto e objetivos do negócio para gerar insights que apoiem decisões estratégicas.
 
 ---
+Dashboard interativo no Power BI Web:
+https://lnkd.in/drnnjpAP
 
 ## Dashboard  
 
